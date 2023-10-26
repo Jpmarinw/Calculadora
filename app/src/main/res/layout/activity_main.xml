@@ -322,7 +322,7 @@
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/multiplicacao"
-                android:text="*"
+                android:text="X"
                 android:background="@color/cinza_claro"
                 android:textColor="@color/white"
                 android:layout_margin="0dp"
@@ -349,8 +349,8 @@
             >
 
             <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/tres"
-                android:text="3"
+                android:id="@+id/um"
+                android:text="1"
                 android:background="@color/cinza"
                 android:textColor="@color/white"
                 android:layout_margin="0dp"
@@ -371,8 +371,8 @@
                 />
 
             <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/um"
-                android:text="1"
+                android:id="@+id/tres"
+                android:text="3"
                 android:background="@color/cinza"
                 android:textColor="@color/white"
                 android:layout_margin="0dp"
